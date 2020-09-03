@@ -1,0 +1,10 @@
+console.time("your code took");
+console.log("hello console");
+console.log(4+34);
+console.log(true);
+console.log([3,4,2,5,6]);
+console.log({name:"harry", age:34, city:"bangalore"});
+console.table({name:"harry", age:34, city:"bangalore"});
+console.timeEnd("your code took");
+console.warn("This is a warning");
+console.error("this is error");
